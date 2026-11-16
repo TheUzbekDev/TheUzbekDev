@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Muslihiddin"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+whoami+%E2%86%92+Muslihiddin;%3E+location+%E2%86%92+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;%3E+Telegram+bot+%2B+Minecraft+addon+dev;%3E+sudo+build+something+epic" alt="typing"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+whoami+%E2%86%92+Muslihiddin;%3E+location+%E2%86%92+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;%3E+Telegram+bot+developer;%3E+sudo+build+something+epic" alt="typing"/></a>
 
 ![Views](https://komarev.com/ghpvc/?username=TheUzbekDev&color=00ff41&style=for-the-badge&label=VIEWS)
 ![Followers](https://img.shields.io/github/followers/TheUzbekDev?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github)
@@ -17,7 +17,7 @@
 name:      Muslihiddin
 alias:     TheUzbekDev
 country:   Uzbekistan 🇺🇿
-role:      Telegram bot & Minecraft Bedrock addon developer
+role:      Telegram bot developer
 also:      Python data pipelines, websites
 hosting:   Render + UptimeRobot, Cloudflare
 mode:      dev // hacker
@@ -25,7 +25,6 @@ motto:     "Kod yoz. Sina. Takrorla."
 ```
 
 - 🤖 Python bilan **Telegram botlar** yarataman (aiogram, python-telegram-bot, Pyrogram)
-- ⛏️ **Minecraft Bedrock** addon va scriptlar yozaman (`@minecraft/server`)
 - 📦 Oʻzim uchun kutubxonalar chiqaraman (PyPI)
 - 🌐 Saytlarni Cloudflare Pages’da joylayman
 - 🎯 Maqsad: har kuni kod yozish, har hafta yangi narsa qurish
@@ -43,7 +42,6 @@ motto:     "Kod yoz. Sina. Takrorla."
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00ff41)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00ff41)
 ![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=00ff41)
-![Minecraft](https://img.shields.io/badge/Minecraft-0d1117?style=for-the-badge&logo=minecraft&logoColor=00ff41)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
 
@@ -58,9 +56,6 @@ motto:     "Kod yoz. Sina. Takrorla."
 | 🌟 **MixStar** | Telegram bot: Stars, Premium, TON xizmatlari va Mini App | Python · Flask |
 | 💬 **ParadoksGram** | Oʻzim yozayotgan Telegram klient | Android · Windows |
 | 🧰 **ms-file-toolkit** | AI function calling uchun fayl vositalari | PyPI · Python |
-| ⛏️ **Maqom Tizimi** | Minecraft oʻyinchi rank addoni | JS · Bedrock |
-| 🐾 **CyberLine Companion** | Faqat OP oʻyinchilarga boʻysunadigan yordamchi mob | JS · Bedrock |
-| 🪐 **EGS Addon** | Minecraft Bedrock addon (AirDrop bilan) | JS · Bedrock |
 
 <div align="center">
 
