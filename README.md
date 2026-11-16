@@ -64,8 +64,8 @@ motto:     "Kod yoz. Sina. Takrorla."
 
 <div align="center">
 
-<a href="https://github.com/muslihiddinlive/ParadoksGram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muslihiddinlive&repo=ParadoksGram&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/></a>
-<a href="https://github.com/muslihiddinlive/ParadoksGram-windows"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muslihiddinlive&repo=ParadoksGram-windows&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/></a>
+[![ParadoksGram](https://img.shields.io/badge/muslihiddinlive%2FParadoksGram-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/muslihiddinlive/ParadoksGram)
+[![ParadoksGram Windows](https://img.shields.io/badge/muslihiddinlive%2FParadoksGram--windows-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/muslihiddinlive/ParadoksGram-windows)
 
 </div>
 
