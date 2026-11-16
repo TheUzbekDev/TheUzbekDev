@@ -58,9 +58,6 @@ motto:     "Kod yoz. Sina. Takrorla."
 | 🌟 **MixStar** | Telegram bot: Stars, Premium, TON xizmatlari va Mini App | Python · Flask |
 | 💬 **ParadoksGram** | Oʻzim yozayotgan Telegram klient | Android · Windows |
 | 🧰 **ms-file-toolkit** | AI function calling uchun fayl vositalari | PyPI · Python |
-| ⛏️ **Maqom Tizimi** | Minecraft oʻyinchi rank addoni | JS · Bedrock |
-| 🐾 **CyberLine Companion** | Faqat OP oʻyinchilarga boʻysunadigan yordamchi mob | JS · Bedrock |
-| 🪐 **EGS Addon** | Minecraft Bedrock addon (AirDrop bilan) | JS · Bedrock |
 
 <div align="center">
 
