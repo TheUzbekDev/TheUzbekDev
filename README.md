@@ -113,7 +113,7 @@ motto:     "Kod yoz. Sina. Takrorla."
 
 <div align="center">
 
-<a href="https://open.spotify.com/search/Ti%C3%ABsto%20Seavolution"><img src="https://img.shields.io/badge/Spotify-Ti%C3%ABsto%20%E2%80%94%20Seavolution-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://open.spotify.com/track/4PH6mswadkm3Ue05uBohEa"><img src="https://img.shields.io/badge/Spotify-Ti%C3%ABsto%20%E2%80%94%20Seavolution-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117"/></a>
 
 <img src="assets/eq.svg" alt="equalizer"/>
 
